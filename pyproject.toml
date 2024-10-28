@@ -1,0 +1,17 @@
+[project]
+name = "test-test-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyter>=1.1.1",
+    "keras-nlp>=0.17.0",
+    "matplotlib>=3.9.2",
+    "notebook>=7.2.2",
+    "pandas>=2.2.3",
+    "tensorflow[and-cuda]>=2.14.0",
+]
+
+[tool.uv]
+upgrade = true
