@@ -86,3 +86,64 @@ Task,Category
 "Evaluate Team Performance and Provide Constructive Feedback", Important but Not Urgent
 "Ensure Compliance with Legal or Regulatory Requirements", Important but Not Urgent
 "Prepare and Deliver Final Project Reports to Stakeholders", Urgent and Important
+"Collect and Clean Raw Data", Urgent and Important
+"Analyze Data and Identify Trends", Urgent and Important
+"Develop and Train Machine Learning Models", Urgent and Important
+"Optimize and Fine-Tune Models for Better Accuracy", Important but Not Urgent
+"Create Data Visualizations and Reports for Stakeholders", Important but Not Urgent
+"Conduct Exploratory Data Analysis (EDA)", Important but Not Urgent
+"Collaborate with Cross-Functional Teams to Understand Business Needs", Important but Not Urgent
+"Document Data Science Processes and Methods Used", Important but Not Urgent
+"Stay Updated with Latest Trends and Tools in Data Science", Important but Not Urgent
+"Evaluate Model Performance and Make Adjustments", Urgent and Important
+"Present Insights and Findings to Non-Technical Stakeholders", Urgent but Not Important
+"Automate Repetitive Data Processing Tasks", Important but Not Urgent
+"Prepare and Preprocess Data for Analysis", Urgent and Important
+"Perform Feature Engineering and Selection", Urgent and Important
+"Build Data Pipelines for Efficient Data Flow", Urgent and Important
+"Test Hypotheses and Conduct Statistical Analysis", Important but Not Urgent
+"Create Dashboards for Real-Time Data Monitoring", Important but Not Urgent
+"Work on Model Interpretability and Explainability", Important but Not Urgent
+"Conduct A/B Testing and Experimentation", Important but Not Urgent
+"Collaborate with Engineers to Deploy Machine Learning Models", Urgent and Important
+"Monitor Deployed Models and Retrain as Necessary", Important but Not Urgent
+"Prepare and Deliver Presentations to Share Insights with Executives", Important but Not Urgent
+"Ensure Data Security and Compliance with Privacy Regulations", Important but Not Urgent
+"Clean and Maintain Data Repositories for Easy Access", Neither Urgent nor Important
+"Set Up Development Environment and Tools", Urgent and Important
+"Define App Features and User Stories", Urgent and Important
+"Design the App UI/UX (Wireframes, Mockups)", Important but Not Urgent
+"Develop Core App Functionality and Features", Urgent and Important
+"Integrate APIs and External Services", Urgent and Important
+"Test App for Bugs and Fix Critical Issues", Urgent and Important
+"Optimize App for Performance and Speed", Important but Not Urgent
+"Ensure App is Responsive Across Devices and Screen Sizes", Important but Not Urgent
+"Prepare Demo and Presentation for Hackathon Judging", Urgent and Important
+"Deploy App to App Store/Play Store (If Applicable)", Important but Not Urgent
+"Collaborate with Team Members on Features and Integrations", Important but Not Urgent
+"Write Documentation and Comment Code for Clarity", Important but Not Urgent
+"Review Course Material and Notes for Exams", Urgent and Important
+"Complete Assignments and Submit on Time", Urgent and Important
+"Attend Lectures and Participate in Discussions", Important but Not Urgent
+"Read Assigned Textbooks and Research Articles", Important but Not Urgent
+"Work on Group Projects and Collaborate with Team Members", Important but Not Urgent
+"Prepare Presentations and Reports for Class", Important but Not Urgent
+"Seek Internships and Career Opportunities", Important but Not Urgent
+"Network with Professors and Industry Professionals", Important but Not Urgent
+"Organize Study Materials and Plan Study Schedule", Important but Not Urgent
+"Analyze Case Studies and Apply Theoretical Knowledge", Important but Not Urgent
+"Review Feedback from Assignments and Improve Performance", Urgent and Important
+"Participate in Extracurricular Activities and Leadership Programs", Neither Urgent nor Important
+"Rest and Allow Your Body to Recover", Urgent and Important
+"Hydrate and Take Medicine as Prescribed", Urgent and Important
+"Notify Work/School About Absence", Urgent and Important
+"Sleep and Take Short Naps to Boost Recovery", Urgent and Important
+"Monitor Symptoms and Seek Medical Help if Necessary", Urgent and Important
+"Eat Light, Nutritious Meals for Energy", Important but Not Urgent
+"Stay in Touch with Colleagues or Classmates for Important Updates", Important but Not Urgent
+"Catch Up on Light, Non-Energy Intensive Tasks (e.g., emails, reading)", Important but Not Urgent
+"Relax and Watch Movies or Listen to Music to Distract Yourself", Neither Urgent nor Important
+"Avoid Strenuous Activity and Focus on Full Recovery", Important but Not Urgent
+"Make a Grocery List Based on Meal Plan", Urgent and Important
+"Check Pantry and Fridge for Existing Items", Important but Not Urgent
+"Go to the Grocery Store or Order Online", Urgent and Important
