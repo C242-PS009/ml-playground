@@ -32,3 +32,57 @@ Task,Category
 "Prepare Dinner",Important but Not Urgent
 "Maintain Personal Hygiene and Cleanliness",Important but Not Urgent
 "Rest and Get Enough Sleep",Urgent and Important
+"Review Assignment Instructions", Urgent and Important
+"Research for Homework", Important but Not Urgent
+"Complete Homework for Subject 1", Urgent and Important
+"Complete Homework for Subject 2", Urgent and Important
+"Review Notes and Study for Homework", Important but Not Urgent
+"Check Answers and Edit Work", Important but Not Urgent
+"Ask for Help or Clarification if Needed", Important but Not Urgent
+"Submit Homework on Time", Urgent and Important
+"Organize Homework Materials and Workspace", Important but Not Urgent
+"Take Breaks During Homework", Important but Not Urgent
+"Set Study Goals for the Session",Urgent and Important
+"Organize Study Materials and Workspace",Important but Not Urgent
+"Review Notes and Summaries",Important but Not Urgent
+"Read Textbook or Study Resources ",Important but Not Urgent
+"Practice Problems or Exercises",Important but Not Urgent
+"Take Breaks at Regular Intervals",Important but Not Urgent
+"Stay Hydrated and Have Snacks",Important but Not Urgent
+"Review Past Assignments and Mistakes",Important but Not Urgent
+"Summarize Key Points for Retention",Important but Not Urgent
+"Prepare for Upcoming Exams or Quizzes",Urgent and Important
+"Write and Plan Code for a Feature", Important but Not Urgent
+"Debug and Fix Bugs in Existing Code", Urgent and Important
+"Research New Libraries or Frameworks for Project", Important but Not Urgent
+"Write Unit Tests for Code", Important but Not Urgent
+"Optimize Code for Performance", Important but Not Urgent
+"Review Pull Requests from Team Members", Urgent but Not Important
+"Attend Code Review Meetings", Urgent but Not Important
+"Refactor Code for Better Readability", Important but Not Urgent
+"Check and Update Documentation for Code", Neither Urgent nor Important
+"Make Minor UI Improvements or Enhancements", Neither Urgent nor Important
+"Define Project Scope and Objectives", Urgent and Important
+"Create Project Timeline and Milestones", Urgent and Important
+"Assign Tasks to Team Members", Urgent and Important
+"Monitor Project Progress and Ensure Deadlines Are Met", Urgent and Important
+"Communicate with Stakeholders and Clients", Important but Not Urgent
+"Review and Approve Project Deliverables", Urgent and Important
+"Risk Assessment and Mitigation Planning", Important but Not Urgent
+"Organize Team Meetings and Check-ins", Important but Not Urgent
+"Maintain Project Documentation and Reports", Important but Not Urgent
+"Provide Feedback and Mentorship to Team Members", Important but Not Urgent
+"Ensure Budget Management and Resource Allocation", Urgent but Not Important
+"Celebrate Project Milestones and Successes", Neither Urgent nor Important
+"Establish Project Team and Roles", Urgent and Important
+"Set Up Project Management Tools (e.g., Trello, Jira)", Important but Not Urgent
+"Conduct Risk Analysis and Develop Contingency Plans", Important but Not Urgent
+"Ensure Quality Control and Standards are Followed", Urgent and Important
+"Track Project Budget and Expenses", Important but Not Urgent
+"Review and Update Project Schedule Regularly", Urgent and Important
+"Facilitate Collaboration and Team Communication", Important but Not Urgent
+"Conduct Client Presentations and Progress Updates", Important but Not Urgent
+"Resolve Conflicts and Issues Within the Team", Urgent and Important
+"Evaluate Team Performance and Provide Constructive Feedback", Important but Not Urgent
+"Ensure Compliance with Legal or Regulatory Requirements", Important but Not Urgent
+"Prepare and Deliver Final Project Reports to Stakeholders", Urgent and Important
