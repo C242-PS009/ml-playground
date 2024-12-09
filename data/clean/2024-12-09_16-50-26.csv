@@ -1,0 +1,1376 @@
+Task,Category,text_length
+finish quarterly report,urgent important,23
+schedule meeting with client x,urgent important,30
+respond to urgent email,urgent not-important,23
+clean desk,not-urgent not-important,10
+learn new programming language,not-urgent important,30
+pay monthly bill,urgent not-important,16
+exercise regularly,not-urgent important,18
+read book on leadership,not-urgent important,23
+attend networking event,not-urgent important,23
+plan vacation,not-urgent important,13
+submit expense report,urgent not-important,21
+review employee performance,urgent important,27
+update website content,not-urgent important,22
+fix broken printer,urgent not-important,18
+organize file,not-urgent not-important,13
+attend conference,not-urgent important,17
+write monthly newsletter,not-urgent important,24
+create marketing plan,not-urgent important,21
+hire new team member,urgent important,20
+develop new product,urgent important,19
+complete online course,not-urgent important,22
+volunteer at local charity,not-urgent important,26
+attend team meeting,urgent not-important,19
+respond to customer inquiry,urgent not-important,27
+update social medium profile,not-urgent important,28
+meal prep for the week,not-urgent not-important,22
+pay credit card bill,urgent not-important,20
+clean out garage,not-urgent not-important,16
+write blog post,not-urgent important,15
+create presentation for meeting,urgent important,31
+update resume,not-urgent important,13
+learn new skill,not-urgent important,15
+attend webinar,not-urgent important,14
+network with industry professional,not-urgent important,34
+set goal for the year,not-urgent important,21
+review financial statement,urgent important,26
+update project timeline,urgent important,23
+brainstorm new idea,not-urgent important,19
+delegate task to team member,urgent not-important,28
+organize personal finance,not-urgent important,25
+read industry news,not-urgent important,18
+attend professional development workshop,not-urgent important,40
+review and update marketing strategy,not-urgent important,36
+optimize website for seo,not-urgent important,24
+create content calendar,not-urgent important,23
+analyze website traffic,not-urgent important,23
+run social medium ad,urgent important,20
+create email marketing campaign,urgent important,31
+update sale pipeline,urgent important,20
+close deal with potential client,urgent important,32
+onboard new client,urgent important,18
+follow up with lead,urgent not-important,19
+attend industry trade show,not-urgent important,26
+develop sale strategy,not-urgent important,21
+train sale team,urgent important,15
+create sale report,urgent not-important,18
+analyze sale data,not-urgent important,17
+improve customer satisfaction,urgent important,29
+resolve customer complaint,urgent important,26
+build relationship with key client,not-urgent important,34
+implement new crm system,urgent important,24
+update client contract,urgent not-important,22
+review legal document,urgent important,21
+negotiate contract with vendor,urgent important,30
+manage inventory,urgent not-important,16
+optimize supply chain,not-urgent important,21
+improve production efficiency,urgent important,29
+develop new product or service,urgent important,30
+conduct market research,not-urgent important,23
+analyze competitor activity,not-urgent important,27
+create marketing campaign for new product,urgent important,41
+launch new product,urgent important,18
+manage product launch,urgent important,21
+gather customer feedback,urgent not-important,24
+improve product quality,urgent important,23
+develop product roadmap,not-urgent important,23
+optimize pricing strategy,not-urgent important,25
+manage product return and refund,urgent not-important,32
+improve customer support,urgent important,24
+train customer support team,urgent not-important,27
+respond to customer support inquiry,urgent not-important,35
+implement customer support software,urgent important,35
+analyze customer support metric,not-urgent important,31
+improve customer experience,urgent important,27
+create customer loyalty program,not-urgent important,31
+conduct customer survey,urgent not-important,23
+analyze customer segmentation,not-urgent important,29
+develop targeted marketing campaign,urgent important,35
+personalize customer communication,not-urgent important,34
+build a strong brand reputation,not-urgent important,31
+manage social medium crisis,urgent important,27
+monitor brand reputation online,not-urgent important,31
+respond to negative review,urgent important,26
+create positive brand experience,not-urgent important,32
+develop a crisis communication plan,not-urgent important,35
+train employee on crisis communication,urgent not-important,38
+study for math exam,urgent important,19
+complete history essay,urgent important,22
+attend chemistry lab,urgent important,20
+finish english reading assignment,not-urgent important,33
+practice guitar,not-urgent important,15
+join study group,not-urgent important,16
+volunteer at local animal shelter,not-urgent important,33
+go to the gym,not-urgent important,13
+meditate,not-urgent important,8
+journal,not-urgent important,7
+clean room,not-urgent not-important,10
+do laundry,not-urgent not-important,10
+cook dinner,not-urgent not-important,11
+pay for lunch,urgent not-important,13
+buy textbook,urgent not-important,12
+attend club meeting,urgent not-important,19
+work on group project,urgent important,21
+prepare presentation,urgent important,20
+review lecture note,not-urgent important,19
+solve practice problem,not-urgent important,22
+watch educational video,not-urgent important,23
+take online course,not-urgent important,18
+read academic paper,not-urgent important,19
+attend career fair,not-urgent important,18
+network with professional,not-urgent important,25
+practice interview skill,not-urgent important,24
+apply for internship,urgent important,20
+search for job,urgent important,14
+write cover letter,urgent important,18
+prepare job interview,urgent important,21
+negotiate salary offer,urgent important,22
+attend job orientation,urgent important,22
+start new job,urgent important,13
+save money for future,not-urgent important,21
+invest in retirement account,not-urgent important,28
+pay off student loan,urgent important,20
+build credit score,not-urgent important,18
+learn budgeting skill,not-urgent important,21
+cook healthy meal,not-urgent important,17
+limit screen time,not-urgent important,17
+get enough sleep,not-urgent important,16
+manage stress,not-urgent important,13
+practice mindfulness,not-urgent important,20
+spend time with family and friend,not-urgent important,33
+travel,not-urgent important,6
+learn a new language,not-urgent important,20
+play a musical instrument,not-urgent important,25
+paint or draw,not-urgent important,13
+write poetry or short story,not-urgent important,27
+take dance or yoga class,not-urgent important,24
+join a sport team,not-urgent important,17
+go hiking or camping,not-urgent important,20
+volunteer at a local charity,not-urgent important,28
+donate blood,not-urgent important,12
+mentor a younger student,not-urgent important,24
+participate in community service,not-urgent important,32
+attend religious service,not-urgent important,24
+meditate or pray,not-urgent important,16
+practice gratitude,not-urgent important,18
+set personal goal,not-urgent important,17
+track progress toward goal,not-urgent important,26
+reevaluate goal regularly,not-urgent important,25
+seek feedback from others,not-urgent important,25
+be patient with yourself,not-urgent important,24
+celebrate accomplishment,not-urgent important,24
+learn from mistake,not-urgent important,18
+stay positive,not-urgent important,13
+believe in yourself,not-urgent important,19
+finalize quarterly report,urgent important,25
+schedule team meeting,urgent important,21
+respond to urgent client email,urgent not-important,30
+clean out inbox,not-urgent not-important,15
+learn python programming,not-urgent important,24
+read a book on leadership,not-urgent important,25
+complete math homework,urgent important,22
+write history essay,urgent important,19
+study for chemistry quiz,urgent important,24
+read english literature book,not-urgent important,28
+buy snack,urgent not-important,9
+review class note,not-urgent important,17
+prepare for job interview,urgent important,25
+respond to urgent email,urgent important,23
+prepare project report,urgent important,22
+plan next month's budget,not-urgent important,24
+learn a new software tool,not-urgent important,25
+attend team meeting,urgent important,19
+organize workspace,not-urgent not-important,18
+review company's social medium post,urgent not-important,35
+schedule a doctor's appointment,not-urgent important,31
+browse online shopping,not-urgent not-important,22
+review last week's sale number,not-urgent important,30
+pay utility bill,urgent important,16
+order office supply,urgent important,19
+write monthly progress report,not-urgent important,29
+update linkedin profile,not-urgent important,23
+send feedback to client,urgent important,23
+complete annual review,not-urgent important,22
+set goal for the next quarter,not-urgent important,29
+review department objective,not-urgent important,27
+review email from unknown sender,urgent not-important,32
+draft new marketing plan,not-urgent important,24
+organize office file,not-urgent not-important,20
+respond to customer complaint,urgent important,29
+schedule weekly meeting,not-urgent important,23
+complete monthly expense report,not-urgent important,31
+check company announcement,urgent not-important,26
+participate in industry webinar,not-urgent important,31
+fill out team survey,urgent not-important,20
+update crm with new lead,urgent important,24
+prepare a presentation,urgent important,22
+follow up on pending invoice,urgent important,28
+create a new client proposal,urgent important,28
+renew software subscription,not-urgent important,27
+catch up on industry news,not-urgent important,25
+organize team building activity,not-urgent important,31
+clean email inbox,not-urgent not-important,17
+test new project management tool,not-urgent important,32
+write thank-you note to client,not-urgent important,30
+prepare expense receipt,urgent important,23
+schedule social medium post,urgent not-important,27
+review job application,urgent important,22
+research potential vendor,not-urgent important,25
+send team reminder,urgent not-important,18
+revisit old file,not-urgent not-important,16
+draft response template,not-urgent important,23
+organize file folder,not-urgent not-important,20
+draft a press release,not-urgent important,21
+contact technical support,urgent not-important,25
+register for online course,not-urgent important,26
+review product inventory,urgent important,24
+brainstorm product idea,not-urgent important,23
+check voicemail message,urgent not-important,23
+prepare project timeline,not-urgent important,24
+review customer feedback,not-urgent important,24
+read pending work message,urgent not-important,25
+add contact to crm,not-urgent not-important,18
+fill out personal expense form,not-urgent not-important,30
+update software to latest version,not-urgent important,33
+take a break to recharge,not-urgent important,24
+plan team lunch,not-urgent not-important,15
+reorder business card,not-urgent not-important,21
+respond to client inquiry,urgent important,25
+write team appreciation message,not-urgent not-important,31
+review new project proposal,not-urgent important,27
+finalize event detail,urgent important,21
+follow up on job application,urgent not-important,28
+update team calendar,not-urgent important,20
+confirm travel arrangement,urgent important,26
+schedule project milestone,not-urgent important,26
+prepare for upcoming meeting,not-urgent important,28
+take inventory of office supply,not-urgent not-important,31
+write personal goal for the year,not-urgent important,32
+organize personal digital file,not-urgent not-important,30
+update personal budget,not-urgent not-important,22
+check linkedin notification,not-urgent not-important,27
+brainstorm new blog topic,not-urgent important,25
+follow up on mentorship request,not-urgent important,31
+record meeting note,urgent not-important,19
+research professional certification,not-urgent important,35
+set up meeting with a mentor,not-urgent important,28
+refine email template,not-urgent important,21
+contact payroll department,urgent not-important,26
+create a vision board,not-urgent not-important,21
+review training material,not-urgent important,24
+brainstorm team retreat idea,not-urgent important,28
+plan out the week ahead,not-urgent important,23
+write down key learning takeaway,not-urgent not-important,32
+read industry newsletter,not-urgent not-important,24
+create social medium content calendar,not-urgent important,37
+research client success story,not-urgent important,29
+draft email signature for team,not-urgent not-important,30
+update employee handbook,not-urgent important,24
+analyze previous marketing campaign,not-urgent important,35
+send reminder for upcoming meeting,urgent not-important,34
+schedule coffee chat with colleague,not-urgent not-important,35
+confirm client meeting detail,urgent important,29
+run data analysis for report,urgent important,28
+update team on project status,urgent not-important,29
+review note from last lecture,not-urgent important,29
+study for upcoming quiz,urgent important,23
+update semester planner,not-urgent important,23
+research internship opportunity,not-urgent important,31
+schedule time with a tutor,urgent important,26
+organize study note,not-urgent not-important,19
+practice sample test question,not-urgent important,29
+submit class project,urgent important,20
+review class syllabus,not-urgent important,21
+check due date for assignment,urgent important,29
+plan for next week's assignment,not-urgent important,31
+meet with professor during office hour,not-urgent important,38
+write discussion post for online class,urgent important,38
+proofread essay before submission,urgent important,33
+organize study material by subject,not-urgent not-important,34
+prepare flashcard for vocabulary,not-urgent important,32
+complete extra credit assignment,not-urgent not-important,32
+practice public speaking for class,not-urgent important,34
+set reminder for exam date,not-urgent important,26
+read assigned book chapter,not-urgent important,26
+review professor's feedback on paper,not-urgent important,36
+watch supplemental video for class,not-urgent important,34
+create a study playlist,not-urgent not-important,23
+check grade online,urgent important,18
+catch up on missed reading,not-urgent important,26
+organize digital study resource,not-urgent not-important,31
+plan weekend study session,not-urgent important,26
+attend campus club meeting,not-urgent not-important,26
+set up a study group with classmate,not-urgent important,35
+research scholarship option,not-urgent important,27
+schedule academic advisor meeting,not-urgent important,33
+attend professor's office hour,not-urgent important,30
+create a study calendar for final,not-urgent important,33
+practice for upcoming oral exam,urgent important,31
+organize backpack for next day,not-urgent not-important,30
+complete online discussion post,urgent important,31
+update resume for job application,not-urgent important,33
+look into study abroad program,not-urgent important,30
+prepare for group project meeting,urgent important,33
+brainstorm idea for research paper,not-urgent important,34
+practice coding exercise,not-urgent important,24
+submit weekly reflection journal,urgent important,32
+research topic for class presentation,not-urgent important,37
+plan meal for the week,not-urgent not-important,22
+set a timer for study break,not-urgent important,27
+review lecture recording,not-urgent important,24
+apply for on-campus job,not-urgent important,23
+check in on group project progress,urgent important,34
+create a list of study topic,not-urgent important,28
+schedule exam preparation time,not-urgent important,30
+attend library study session,not-urgent not-important,28
+review previous exam question,not-urgent important,29
+write outline for term paper,not-urgent important,28
+attend extra lab practice session,urgent important,33
+write down study goal,not-urgent not-important,21
+organize note by topic,not-urgent not-important,22
+practice language skill with partner,not-urgent important,36
+create an exam study guide,not-urgent important,26
+organize dorm room,not-urgent not-important,18
+set up reminder for homework deadline,not-urgent important,37
+ask professor for study tip,not-urgent important,27
+attend guest lecture on campus,not-urgent not-important,30
+read a relevant research article,not-urgent important,32
+prepare for mock interview,not-urgent important,26
+organize semester study material,not-urgent not-important,32
+check library hour,not-urgent not-important,18
+update list of goal for semester,not-urgent not-important,32
+attend academic success workshop,not-urgent important,32
+brainstorm idea for thesis topic,not-urgent important,32
+create a spreadsheet for tracking grade,not-urgent not-important,39
+look up class study resource,not-urgent not-important,28
+draft lab report,urgent important,16
+check campus event schedule,not-urgent not-important,27
+attend mental health workshop,not-urgent important,29
+research grant and financial aid,not-urgent important,32
+create a study group calendar,not-urgent not-important,29
+practice essay writing skill,not-urgent important,28
+set personal academic goal,not-urgent not-important,26
+apply for student club membership,not-urgent not-important,33
+check deadline for application,not-urgent important,30
+review note with classmate,not-urgent important,26
+plan schedule for final week,not-urgent important,28
+write summary of lecture note,not-urgent important,29
+find a quiet study spot on campus,not-urgent not-important,33
+take a practice quiz,not-urgent important,20
+prepare question for class,not-urgent important,26
+follow up with professor on project feedback,not-urgent important,44
+review lab safety guideline,not-urgent important,27
+attend volunteer information session,not-urgent not-important,36
+participate in class discussion,urgent important,31
+practice presentation for class,urgent important,31
+set reminder for assignment due date,not-urgent important,36
+read course-related news article,not-urgent important,32
+organize study flashcard,not-urgent not-important,24
+write note for research paper,not-urgent important,29
+prepare list of question for exam review,not-urgent important,40
+apply for summer internship,not-urgent important,27
+complete pre-lab question,urgent important,25
+sign up for campus career fair,not-urgent important,30
+review study topic for quiz,not-urgent important,27
+plan research project timeline,not-urgent important,30
+check availability of study room,not-urgent not-important,32
+respond to client email,urgent important,23
+prepare monthly sale report,urgent important,27
+review budget proposal,not-urgent important,22
+attend weekly team meeting,urgent important,26
+organize department file,not-urgent not-important,24
+create quarterly project plan,not-urgent important,29
+follow up on pending payment,urgent important,28
+schedule performance review,not-urgent important,27
+submit travel reimbursement,urgent important,27
+review new software tool,not-urgent important,24
+organize upcoming team event,not-urgent important,28
+delegate task to team,urgent not-important,21
+prepare for client presentation,urgent important,31
+submit expense report,urgent important,21
+update project documentation,not-urgent important,28
+arrange office supply restock,urgent not-important,29
+schedule a team-building activity,not-urgent important,33
+plan next month's newsletter,not-urgent important,28
+back up important file,not-urgent important,22
+send meeting note to the team,urgent not-important,29
+review quarterly objective,not-urgent important,26
+respond to vendor inquiry,urgent important,25
+prepare annual review document,not-urgent important,30
+set up automated report,not-urgent important,23
+write thank-you email to client,not-urgent important,31
+create a team onboarding checklist,not-urgent important,34
+follow up on project deadline,urgent important,29
+schedule it maintenance,not-urgent important,23
+check software license renewal,not-urgent important,30
+confirm travel arrangement for conference,urgent important,41
+plan next quarter's budget,not-urgent important,26
+organize department lunch,not-urgent not-important,25
+respond to urgent it ticket,urgent important,27
+schedule training session,not-urgent important,25
+submit contract revision,urgent important,24
+update marketing campaign metric,urgent not-important,32
+send project update to stakeholder,urgent important,34
+organize team resource,not-urgent not-important,22
+prepare quarterly performance review,not-urgent important,36
+write project closure report,urgent important,28
+review company guideline,not-urgent not-important,24
+set up monthly one-on-one meeting,not-urgent important,33
+review employee feedback,not-urgent important,24
+conduct client satisfaction survey,not-urgent important,34
+prepare for weekly project update,not-urgent important,33
+send follow-up email,urgent important,20
+research industry trend,not-urgent important,23
+organize team feedback session,not-urgent important,30
+create budget allocation spreadsheet,not-urgent important,36
+draft press release,urgent important,19
+conduct competitor analysis,not-urgent important,27
+update contact list,not-urgent not-important,19
+prepare for board presentation,urgent important,30
+confirm conference registration,urgent important,31
+arrange client appreciation gift,not-urgent not-important,32
+draft annual financial summary,not-urgent important,30
+schedule project demo,urgent important,21
+organize product sample,not-urgent not-important,23
+respond to email inquiry,urgent important,24
+schedule quarterly review meeting,not-urgent important,33
+develop team training plan,not-urgent important,26
+check in on pending contract,urgent not-important,28
+complete it security training,not-urgent important,29
+review current project status,not-urgent important,29
+prepare team activity report,not-urgent important,28
+arrange lunch with client,urgent not-important,25
+complete hr compliance training,not-urgent important,31
+attend stakeholder presentation,not-urgent important,31
+follow up on action item from meeting,urgent important,37
+organize digital folder,not-urgent not-important,23
+draft quarterly progress update,not-urgent important,31
+meet with new team member,not-urgent important,25
+finalize product release checklist,urgent important,34
+review payroll report,urgent important,21
+update project timeline,not-urgent important,23
+schedule software training session,not-urgent important,34
+back up data on cloud storage,not-urgent important,29
+order new office furniture,not-urgent not-important,26
+brainstorm idea for client outreach,not-urgent important,35
+draft a proposal for new project,urgent important,32
+monitor social medium mention,urgent not-important,29
+create template for recurring report,not-urgent important,36
+prepare feedback for supplier review,not-urgent important,36
+submit project proposal,urgent important,23
+check competitor pricing,not-urgent important,24
+organize brainstorming session,not-urgent important,30
+develop employee onboarding plan,not-urgent important,32
+research new office software solution,not-urgent important,37
+run a quarterly survey,not-urgent important,22
+respond to job application inquiry,urgent not-important,34
+update client portfolio,not-urgent not-important,23
+schedule content for social medium,not-urgent important,34
+prepare holiday schedule,not-urgent important,24
+complete office maintenance request,urgent important,35
+review policy update,not-urgent important,20
+clean out old project file,not-urgent not-important,26
+study for upcoming exam,urgent important,23
+prepare group project presentation,urgent important,34
+review last class note,not-urgent important,22
+set up a study schedule,not-urgent important,23
+respond to professor's email,urgent important,28
+organize study material,not-urgent important,23
+plan next semester's course,not-urgent important,27
+attend study group session,urgent important,26
+ask professor for feedback,not-urgent important,26
+submit final paper,urgent important,18
+register for upcoming exam,urgent important,26
+research scholarship opportunity,not-urgent important,32
+update academic resume,not-urgent important,22
+prepare for internship interview,urgent important,32
+schedule a meeting with an academic advisor,not-urgent important,43
+participate in class discussion board,urgent not-important,37
+practice public speaking,not-urgent important,24
+review course syllabus,not-urgent important,22
+watch recorded lecture,not-urgent important,22
+plan budget for semester,not-urgent important,24
+submit weekly assignment,urgent important,24
+meet with project teammate,urgent important,26
+schedule study session,not-urgent important,22
+complete online course module,urgent important,29
+check library book due date,urgent important,27
+create a study checklist,not-urgent important,24
+review feedback from last exam,not-urgent important,30
+plan weekend study retreat,not-urgent not-important,26
+review past exam paper,not-urgent important,22
+brainstorm research paper topic,not-urgent important,31
+organize class note,not-urgent not-important,19
+prepare for lab assignment,urgent important,26
+schedule time for exercise,not-urgent important,26
+visit professor during office hour,not-urgent important,34
+start term paper research,not-urgent important,25
+update academic planner,not-urgent important,23
+fill out scholarship application,urgent important,32
+review lecture slide,not-urgent important,20
+plan summer internship application,not-urgent important,34
+check study resource,not-urgent not-important,20
+prepare for midterm,urgent important,19
+confirm study group meeting,urgent important,27
+research graduate school option,not-urgent important,31
+brainstorm club activity idea,not-urgent not-important,29
+take a study break,not-urgent important,18
+practice coding problem,not-urgent important,23
+find a quiet study spot,not-urgent not-important,23
+submit lab report,urgent important,17
+attend online tutoring session,urgent important,30
+participate in student club meeting,not-urgent important,35
+organize digital file,not-urgent not-important,21
+read course-related article,not-urgent important,27
+update class project document,urgent important,29
+meet with peer mentor,not-urgent important,21
+create flashcard for studying,not-urgent important,29
+plan a study schedule for final,not-urgent important,31
+review practice question,not-urgent important,24
+research student loan information,not-urgent important,33
+schedule dentist appointment,not-urgent important,28
+set up reminder for due date,not-urgent important,28
+organize exam study resource,not-urgent important,28
+write summary note,not-urgent important,18
+review essay guideline,not-urgent important,22
+print out assignment rubric,urgent not-important,27
+back up computer file,not-urgent important,21
+brainstorm thesis idea,not-urgent important,22
+apply for library study room,urgent important,28
+follow up on internship application,not-urgent important,35
+research essay topic,not-urgent important,20
+complete assigned reading,urgent important,25
+attend extracurricular activity,not-urgent not-important,31
+register for extracurricular workshop,not-urgent important,37
+organize backpack,not-urgent not-important,17
+listen to lecture podcast,not-urgent important,25
+proofread assignment,urgent important,20
+prepare for language exam,urgent important,25
+write study goal for the semester,not-urgent important,33
+plan weekend activity,not-urgent not-important,21
+meet with study buddy,not-urgent important,21
+review last semester's grade,not-urgent not-important,28
+clean dorm room,not-urgent not-important,15
+practice mental health exercise,not-urgent important,31
+attend tutoring for difficult subject,urgent important,37
+research potential career path,not-urgent important,30
+review study flashcard,not-urgent important,22
+take note on textbook chapter,not-urgent important,29
+finish lab prep,urgent important,15
+participate in study forum,urgent not-important,26
+check internship deadline,not-urgent important,25
+research online course for credit,not-urgent important,33
+study past quiz,not-urgent important,15
+prepare resume for career fair,urgent important,30
+organize reference material,not-urgent not-important,27
+catch up on sleep,not-urgent important,17
+plan graduation requirement,not-urgent important,27
+prepare weekly status report,urgent important,28
+send reminder email for upcoming deadline,urgent not-important,41
+schedule team brainstorming session,not-urgent important,35
+organize company-wide webinar,not-urgent important,29
+order coffee and snack for the office,not-urgent not-important,37
+update personal portfolio with latest project,not-urgent not-important,45
+draft response to customer complaint,urgent important,36
+send out holiday card to client,not-urgent not-important,31
+analyze sale performance metric,not-urgent important,31
+plan content for blog post series,not-urgent important,33
+reconcile company credit card transaction,urgent important,41
+create onboarding document for new hire,not-urgent important,39
+review recent team performance data,not-urgent important,35
+attend weekly leadership meeting,urgent important,32
+clean up shared drive file,not-urgent not-important,26
+order new business card,not-urgent not-important,23
+schedule yearly team review session,not-urgent important,35
+review annual financial statement,not-urgent important,33
+check printer and copier supply,urgent not-important,31
+conduct survey on employee satisfaction,not-urgent important,39
+develop social medium posting calendar,not-urgent important,38
+organize monthly company lunch,not-urgent not-important,30
+proofread marketing material,urgent important,28
+prepare agenda for next project meeting,urgent important,39
+send thank-you note to partner,not-urgent not-important,30
+renew professional certification,not-urgent important,32
+schedule daily stand-up meeting,urgent important,31
+organize client appreciation event,not-urgent important,34
+review progress on team goal,not-urgent important,28
+update safety procedure,urgent important,23
+evaluate proposal from new vendor,not-urgent important,33
+create faq for customer support,not-urgent important,31
+respond to low-priority email inquiry,urgent not-important,37
+organize office supply cabinet,not-urgent not-important,30
+complete cybersecurity training,urgent important,31
+check office inventory level,not-urgent not-important,28
+conduct competitor swot analysis,not-urgent important,32
+prepare workshop material,urgent important,25
+send out rsvp reminder for event,urgent not-important,32
+schedule 1:1s with each team member,not-urgent important,35
+prepare for client quarterly review,urgent important,35
+write personal development goal,not-urgent important,31
+organize file by client or project,not-urgent not-important,34
+check office maintenance request,urgent important,32
+write and publish press release,urgent important,31
+review next quarter's strategic plan,not-urgent important,36
+organize old email,not-urgent not-important,18
+prepare next month's client billing,urgent important,35
+set up calendar reminder for deadline,not-urgent important,37
+host monthly feedback session,not-urgent important,29
+archive old project file,not-urgent not-important,24
+collect feedback on product launch,not-urgent important,34
+respond to low-priority comment online,not-urgent not-important,38
+update office emergency contact list,not-urgent important,36
+draft new customer support guideline,not-urgent important,36
+follow up on partnership inquiry,urgent important,32
+update team on project timeline,urgent not-important,31
+schedule office maintenance,not-urgent important,27
+prepare material for vendor meeting,urgent important,35
+organize end-of-year review documentation,not-urgent important,41
+revisit monthly budget forecast,not-urgent important,31
+order flower for upcoming event,not-urgent not-important,31
+write case study for recent project,not-urgent important,35
+research new trend in the industry,not-urgent important,34
+create template for internal report,not-urgent important,35
+monitor google analytics for website,not-urgent important,36
+sort digital invoice,not-urgent not-important,20
+review goal from last quarter,not-urgent important,29
+check update to hr policy,urgent not-important,25
+create email template for client response,not-urgent important,41
+update quarterly financial goal,not-urgent important,31
+draft minute from last team meeting,urgent not-important,35
+set up automated workflow,not-urgent important,25
+review and approve social medium post,urgent important,37
+research potential advertiser,not-urgent important,29
+run monthly report on kpis,not-urgent important,26
+submit monthly subscription payment,urgent important,35
+clean up physical workspace,not-urgent not-important,27
+organize next month's event calendar,not-urgent important,36
+review project risk and contingency,not-urgent important,35
+follow up with unresponsive client,urgent important,34
+plan team retreat itinerary,not-urgent important,27
+assign task for project phase,not-urgent important,29
+write project post-mortem report,not-urgent important,32
+update process documentation,not-urgent important,28
+test workflow automation,not-urgent not-important,24
+send out new hire welcome email,urgent important,31
+review quarterly expense report,not-urgent important,31
+send employee birthday message,not-urgent not-important,30
+prepare a competitive analysis,not-urgent important,30
+check status of customer ticket,urgent important,31
+set reminder for project check-in,not-urgent important,33
+order custom promotional material,not-urgent not-important,33
+send follow-up thank-you email after meeting,not-urgent important,44
+confirm attendance at upcoming conference,urgent important,41
+organize shared workspace for team,not-urgent not-important,34
+complete quarterly financial report,urgent important,35
+respond to client emergency,urgent important,27
+submit tax document,urgent important,19
+fix critical system bug,urgent important,23
+attend emergency team meeting,urgent important,29
+schedule medical appointment,urgent important,28
+pay overdue bill,urgent important,16
+handle customer crisis,urgent important,22
+submit project proposal deadline,urgent important,32
+resolve server downtime,urgent important,23
+prepare for tomorrow's presentation,urgent important,35
+address security breach,urgent important,23
+complete employee evaluation,urgent important,28
+fix broken production line,urgent important,26
+submit grant application,urgent important,24
+strategic planning session,not-urgent important,26
+exercise and fitness,not-urgent important,20
+professional development course,not-urgent important,31
+family time,not-urgent important,11
+preventive maintenance,not-urgent important,22
+network building,not-urgent important,16
+research market trend,not-urgent important,21
+update business plan,not-urgent important,20
+learn new software skill,not-urgent important,24
+personal goal setting,not-urgent important,21
+regular health checkup,not-urgent important,22
+team building activity,not-urgent important,22
+improve documentation,not-urgent important,21
+develop new product idea,not-urgent important,24
+mentor junior staff,not-urgent important,19
+review long-term goal,not-urgent important,21
+plan marketing strategy,not-urgent important,23
+research competitor,not-urgent important,19
+check social medium mention,urgent not-important,27
+reply to routine email,urgent not-important,22
+schedule regular meeting,urgent not-important,24
+fill out paperwork,urgent not-important,18
+return phone call,urgent not-important,17
+order office supply,urgent not-important,19
+update contact list,urgent not-important,19
+format document,urgent not-important,15
+file expense report,urgent not-important,19
+organize digital file,urgent not-important,21
+update software,urgent not-important,15
+clean workspace,urgent not-important,15
+sort through mail,urgent not-important,17
+back up file,urgent not-important,12
+process routine invoice,urgent not-important,23
+schedule appointment,urgent not-important,20
+update calendar,urgent not-important,15
+organize email inbox,urgent not-important,20
+review meeting note,urgent not-important,19
+print document,urgent not-important,14
+browse social medium,not-urgent not-important,20
+watch youtube video,not-urgent not-important,19
+play mobile game,not-urgent not-important,16
+read news article,not-urgent not-important,17
+online shopping,not-urgent not-important,15
+organize desk drawer,not-urgent not-important,20
+rearrange office layout,not-urgent not-important,23
+chat with coworkers,not-urgent not-important,19
+check stock price,not-urgent not-important,17
+scroll through feed,not-urgent not-important,19
+reorganize bookmark,not-urgent not-important,19
+color code file,not-urgent not-important,15
+change desktop wallpaper,not-urgent not-important,24
+sort business card,not-urgent not-important,18
+customize email signature,not-urgent not-important,25
+download new apps,not-urgent not-important,17
+update profile picture,not-urgent not-important,22
+subscribe to newsletter,not-urgent not-important,23
+create email filter,not-urgent not-important,19
+test new productivity apps,not-urgent not-important,26
+review old document,not-urgent not-important,19
+organize phone photo,not-urgent not-important,20
+clean browser history,not-urgent not-important,21
+update password list,not-urgent not-important,20
+arrange desktop icon,not-urgent not-important,20
+sort through old email,not-urgent not-important,22
+review app notification,not-urgent not-important,23
+organize music playlist,not-urgent not-important,23
+customize phone setting,not-urgent not-important,23
+delete unused apps,not-urgent not-important,18
+review saved article,not-urgent not-important,20
+clean download folder,not-urgent not-important,21
+update browser bookmark,not-urgent not-important,23
+sort through screenshots,not-urgent not-important,24
+review podcast subscription,not-urgent not-important,27
+clean recycle bin,not-urgent not-important,17
+update app permission,not-urgent not-important,21
+review browser extension,not-urgent not-important,24
+sort through voice memo,not-urgent not-important,23
+customize notification setting,not-urgent not-important,30
+review cloud storage,not-urgent not-important,20
+update device nickname,not-urgent not-important,22
+sort through archived chat,not-urgent not-important,26
+review app integration,not-urgent not-important,22
+organize digital note,not-urgent not-important,21
+update contact photo,not-urgent not-important,20
+review backup setting,not-urgent not-important,21
+sort through draft folder,not-urgent not-important,25
+complete final exam registration,urgent important,32
+submit thesis draft to advisor,urgent important,30
+pay tuition fee deadline,urgent important,24
+complete lab experiment report,urgent important,30
+submit plagiarism declaration,urgent important,29
+schedule oral defense meeting,urgent important,29
+submit course drop request,urgent important,26
+complete midterm makeup exam,urgent important,28
+submit grade appeal form,urgent important,24
+complete dormitory checkout,urgent important,27
+submit research ethic approval,urgent important,30
+complete academic integrity quiz,urgent important,32
+submit visa extension document,urgent important,30
+complete prerequisite waiver,urgent important,28
+submit degree audit request,urgent important,27
+research thesis topic,not-urgent important,21
+develop research methodology,not-urgent important,28
+read academic journal,not-urgent important,21
+practice statistical analysis,not-urgent important,29
+build academic reference,not-urgent important,24
+learn citation style,not-urgent important,20
+improve academic writing,not-urgent important,24
+study research method,not-urgent important,21
+practice data analysis,not-urgent important,22
+learn reference management,not-urgent important,26
+build laboratory skill,not-urgent important,22
+practice peer review,not-urgent important,20
+learn academic software,not-urgent important,23
+study research ethic,not-urgent important,20
+build academic vocabulary,not-urgent important,25
+practice research design,not-urgent important,24
+learn data visualization,not-urgent important,24
+study experimental design,not-urgent important,25
+practice academic debate,not-urgent important,24
+learn academic publishing,not-urgent important,25
+update class attendance,urgent not-important,23
+submit club reimbursement,urgent not-important,25
+book laboratory time,urgent not-important,20
+schedule peer review,urgent not-important,20
+submit printer credit,urgent not-important,21
+reserve presentation room,urgent not-important,25
+update student portal,urgent not-important,21
+schedule counseling session,urgent not-important,27
+submit locker request,urgent not-important,21
+book equipment rental,urgent not-important,21
+update meal plan,urgent not-important,16
+schedule campus tour,urgent not-important,20
+submit club budget,urgent not-important,18
+book sport facility,urgent not-important,19
+update student insurance,urgent not-important,24
+schedule library workshop,urgent not-important,25
+submit volunteer hour,urgent not-important,21
+book career counseling,urgent not-important,22
+update campus card,urgent not-important,18
+schedule faculty meeting,urgent not-important,24
+organize lecture recording,not-urgent not-important,26
+create study flashcard,not-urgent not-important,22
+update assignment tracker,not-urgent not-important,25
+design revision timetable,not-urgent not-important,25
+organize digital textbook,not-urgent not-important,25
+create subject folder,not-urgent not-important,21
+design note-taking system,not-urgent not-important,25
+organize study guide,not-urgent not-important,20
+create exam schedule,not-urgent not-important,20
+design assignment calendar,not-urgent not-important,26
+organize research paper,not-urgent not-important,23
+create citation library,not-urgent not-important,23
+design project timeline,not-urgent not-important,23
+organize course material,not-urgent not-important,24
+create reading schedule,not-urgent not-important,23
+design study roadmap,not-urgent not-important,20
+organize academic paper,not-urgent not-important,23
+create revision guide,not-urgent not-important,21
+design study planner,not-urgent not-important,20
+organize course note,not-urgent not-important,20
+sort lecture slide,not-urgent not-important,18
+organize practice test,not-urgent not-important,22
+create concept map,not-urgent not-important,18
+design study schedule,not-urgent not-important,21
+organize lab report,not-urgent not-important,19
+create assignment checklist,not-urgent not-important,27
+design research log,not-urgent not-important,19
+organize reference list,not-urgent not-important,23
+create study summary,not-urgent not-important,20
+design revision plan,not-urgent not-important,20
+organize past paper,not-urgent not-important,19
+create topic outline,not-urgent not-important,20
+design study tracker,not-urgent not-important,20
+organize course syllabus,not-urgent not-important,24
+create exam timetable,not-urgent not-important,21
+design study template,not-urgent not-important,21
+organize study material,not-urgent not-important,23
+create revision note,not-urgent not-important,20
+design learning path,not-urgent not-important,20
+organize course reading,not-urgent not-important,23
+create study checklist,not-urgent not-important,22
+design review schedule,not-urgent not-important,22
+organize study resource,not-urgent not-important,23
+respond to data breach incident,urgent important,31
+prepare board meeting presentation,urgent important,34
+complete fda compliance audit,urgent important,29
+handle major customer escalation,urgent important,32
+fix critical production defect,urgent important,30
+submit government tender proposal,urgent important,33
+address workplace safety violation,urgent important,34
+resolve cash flow crisis,urgent important,24
+complete merger documentation,urgent important,29
+execute emergency evacuation drill,urgent important,34
+negotiate vendor contract renewal,urgent important,33
+address employee grievance,urgent important,26
+submit environmental compliance report,urgent important,38
+resolve legal dispute deadline,urgent important,30
+coordinate crisis communication,urgent important,31
+develop 5-year strategic plan,not-urgent important,29
+implement sustainability initiative,not-urgent important,35
+research artificial intelligence adoption,not-urgent important,41
+design employee wellness program,not-urgent important,32
+create succession planning framework,not-urgent important,36
+develop talent pipeline strategy,not-urgent important,32
+plan digital transformation roadmap,not-urgent important,35
+design product innovation framework,not-urgent important,35
+create risk management strategy,not-urgent important,31
+develop customer experience strategy,not-urgent important,36
+plan international expansion,not-urgent important,28
+design corporate university program,not-urgent important,35
+create diversity inclusion framework,not-urgent important,36
+develop data governance policy,not-urgent important,30
+plan infrastructure modernization,not-urgent important,33
+create intellectual property strategy,not-urgent important,37
+design carbon neutrality roadmap,not-urgent important,32
+develop supply chain resilience plan,not-urgent important,36
+create cybersecurity framework,not-urgent important,30
+plan automation strategy,not-urgent important,24
+schedule routine maintenance,urgent not-important,28
+process employee reimbursement,urgent not-important,30
+update department contact list,urgent not-important,30
+respond to medium inquiry,urgent not-important,25
+order office furniture,urgent not-important,22
+coordinate team lunch,urgent not-important,21
+update company directory,urgent not-important,24
+schedule vendor meeting,urgent not-important,23
+process purchase order,urgent not-important,22
+update software license,urgent not-important,23
+arrange business travel,urgent not-important,23
+coordinate office relocation,urgent not-important,28
+update employee badge,urgent not-important,21
+process routine paperwork,urgent not-important,25
+schedule training session,urgent not-important,25
+organize team building event,urgent not-important,28
+update internal wiki page,urgent not-important,25
+coordinate office supply inventory,urgent not-important,34
+process parking permit,urgent not-important,22
+update phone system,urgent not-important,19
+reorganize shared drive folder,not-urgent not-important,30
+design email newsletter template,not-urgent not-important,32
+update company screensavers,not-urgent not-important,27
+customize department letterhead,not-urgent not-important,31
+review social medium analytics,not-urgent not-important,30
+create office playlist,not-urgent not-important,22
+design team mascot,not-urgent not-important,18
+update lobby slideshow,not-urgent not-important,22
+organize digital asset library,not-urgent not-important,30
+create email signature template,not-urgent not-important,31
+design office space theme,not-urgent not-important,25
+update intranet color scheme,not-urgent not-important,28
+create departmental logo,not-urgent not-important,24
+design virtual background,not-urgent not-important,25
+customize chat bot appearance,not-urgent not-important,29
+update printer naming convention,not-urgent not-important,32
+design office floor plan,not-urgent not-important,24
+create team avatar,not-urgent not-important,18
+update meeting room theme,not-urgent not-important,25
+design internal presentation template,not-urgent not-important,37
+customize project management label,not-urgent not-important,34
+update desktop wallpaper,not-urgent not-important,24
+design team merchandise,not-urgent not-important,23
+create department newsletter,not-urgent not-important,28
+update office signage font,not-urgent not-important,26
+design employee handbook layout,not-urgent not-important,31
+create team celebration certificate,not-urgent not-important,35
+update company screensaver quote,not-urgent not-important,32
+design office artwork,not-urgent not-important,21
+create team building game,not-urgent not-important,25
+update office plant arrangement,not-urgent not-important,31
+design company swag item,not-urgent not-important,24
+create virtual team room,not-urgent not-important,24
+update office color scheme,not-urgent not-important,26
+design company merchandise,not-urgent not-important,26
+create team recognition badge,not-urgent not-important,29
+update office furniture layout,not-urgent not-important,30
+design company event theme,not-urgent not-important,26
+create department dashboard,not-urgent not-important,27
+update office decoration schedule,not-urgent not-important,33
+design team building activity,not-urgent not-important,29
+create virtual office tour,not-urgent not-important,26
+update office amenity guide,not-urgent not-important,27
+design company culture poster,not-urgent not-important,29
+create team spirit contest,not-urgent not-important,26
+update office ambiance setting,not-urgent not-important,30
+submit today's assignment deadline,urgent important,34
+complete group project meeting,urgent important,30
+study for tomorrow's quiz,urgent important,25
+submit late homework pas request,urgent important,32
+attend mandatory class session,urgent important,30
+complete online test before midnight,urgent important,36
+submit class participation report,urgent important,33
+complete peer review deadline,urgent important,29
+attend lab practical session,urgent important,28
+submit discussion post deadline,urgent important,31
+complete attendance makeup form,urgent important,31
+submit course reflection paper,urgent important,30
+complete week's lab assignment,urgent important,30
+submit weekly progress report,urgent important,29
+attend required study session,urgent important,29
+review next week's material,not-urgent important,27
+prepare study note in advance,not-urgent important,29
+practice problem set,not-urgent important,20
+summarize textbook chapter,not-urgent important,26
+create exam study guide,not-urgent important,23
+practice lab technique,not-urgent important,22
+review feedback comment,not-urgent important,23
+prepare presentation slide,not-urgent important,26
+update study schedule,not-urgent important,21
+practice sample question,not-urgent important,24
+prepare group project material,not-urgent important,30
+review past assignment,not-urgent important,22
+complete optional reading,not-urgent important,25
+practice presentation,not-urgent important,21
+create assignment timeline,not-urgent important,26
+prepare question for office hour,not-urgent important,32
+check discussion board reply,urgent not-important,28
+reply to classmate email,urgent not-important,24
+submit attendance record,urgent not-important,24
+check grade update,urgent not-important,18
+reserve study room,urgent not-important,18
+print lecture slide,urgent not-important,19
+check course announcement,urgent not-important,25
+submit extra credit form,urgent not-important,24
+update digital calendar,urgent not-important,23
+check library due date,urgent not-important,22
+submit class survey,urgent not-important,19
+update study group chat,urgent not-important,23
+check assignment feedback,urgent not-important,25
+update todo list,urgent not-important,16
+submit class preference,urgent not-important,23
+check campus event,urgent not-important,18
+check exam schedule,urgent not-important,19
+update class material,urgent not-important,21
+browse social medium study group,not-urgent not-important,32
+customize study playlist,not-urgent not-important,24
+organize laptop file,not-urgent not-important,20
+update study apps,not-urgent not-important,17
+rearrange study desk,not-urgent not-important,20
+chat with classmate,not-urgent not-important,19
+browse educational youtube,not-urgent not-important,26
+update study aesthetic,not-urgent not-important,22
+create study ambiance,not-urgent not-important,21
+browse study supply,not-urgent not-important,19
+update study wallpaper,not-urgent not-important,22
+organize study snack,not-urgent not-important,20
+browse study tip,not-urgent not-important,16
+update study playlist,not-urgent not-important,21
+organize phone apps,not-urgent not-important,19
+browse study motivation quote,not-urgent not-important,29
+update study corner,not-urgent not-important,19
+organize study break activity,not-urgent not-important,29
+update study routine,not-urgent not-important,20
+check academic social medium,not-urgent not-important,28
+update study environment,not-urgent not-important,24
+browse study gadget,not-urgent not-important,19
+update study tracker app,not-urgent not-important,24
+organize digital bookmark,not-urgent not-important,25
+update study reward,not-urgent not-important,19
+browse study technique,not-urgent not-important,22
+update study goal list,not-urgent not-important,22
+organize study break,not-urgent not-important,20
+update study progress,not-urgent not-important,21
+browse study method,not-urgent not-important,19
+update study schedule design,not-urgent not-important,28
+update study motivation board,not-urgent not-important,29
+browse study blog,not-urgent not-important,17
+update study routine checklist,not-urgent not-important,30
+organize study area,not-urgent not-important,19
+update study progress tracker,not-urgent not-important,29
+browse study podcasts,not-urgent not-important,21
+update study timeline,not-urgent not-important,21
+organize study apps,not-urgent not-important,19
+update study method list,not-urgent not-important,24
+browse study website,not-urgent not-important,20
+update study checklist,not-urgent not-important,22
+organize study schedule,not-urgent not-important,23
+reorganize backpack content,not-urgent not-important,27
+update phone home screen layout,not-urgent not-important,31
+sort photo from class event,not-urgent not-important,27
+customize notebook cover,not-urgent not-important,24
+organize pencil case,not-urgent not-important,20
+create new study playlist,not-urgent not-important,25
+rearrange desk decoration,not-urgent not-important,25
+color-code digital folder,not-urgent not-important,25
+design new schedule template,not-urgent not-important,28
+browse new stationery item,not-urgent not-important,26
+update laptop sticker,not-urgent not-important,21
+organize mobile bookmark,not-urgent not-important,24
+customize calculator case,not-urgent not-important,25
+sort digital downloads folder,not-urgent not-important,29
+update device ringtones,not-urgent not-important,23
+reorganize study apps layout,not-urgent not-important,28
+design new folder label,not-urgent not-important,23
+browse study room decor,not-urgent not-important,23
+update screen time limit,not-urgent not-important,24
+customize alarm sound,not-urgent not-important,21
+sort old assignment paper,not-urgent not-important,25
+design new study corner,not-urgent not-important,23
+update study break game,not-urgent not-important,23
+organize phone photo album,not-urgent not-important,26
+browse laptop accessory,not-urgent not-important,23
+update study music genre,not-urgent not-important,24
+sort browser bookmark,not-urgent not-important,21
+customize folder icon,not-urgent not-important,21
+update study room lighting,not-urgent not-important,26
+organize digital screenshots,not-urgent not-important,28
+browse desk organization item,not-urgent not-important,29
+update social medium bios,not-urgent not-important,25
+sort email newsletter,not-urgent not-important,21
+design new study badge,not-urgent not-important,22
+update app notification setting,not-urgent not-important,31
+browse study motivation account,not-urgent not-important,31
+customize keyboard shortcut,not-urgent not-important,27
+update study break timer,not-urgent not-important,24
+sort downloaded pdfs,not-urgent not-important,20
+browse new phone case,not-urgent not-important,21
+update desktop widget,not-urgent not-important,21
+sort browser extension,not-urgent not-important,22
+design new study avatar,not-urgent not-important,23
+update playlist cover,not-urgent not-important,21
+browse study room plant,not-urgent not-important,23
+sort mobile apps by color,not-urgent not-important,25
+update cloud storage layout,not-urgent not-important,27
+design new study sticker,not-urgent not-important,24
+browse desk lamp,not-urgent not-important,16
+update phone widget,not-urgent not-important,19
+sort study bookmark,not-urgent not-important,19
+customize app icon,not-urgent not-important,18
+update study room scent,not-urgent not-important,23
+browse mouse pad,not-urgent not-important,16
+update browser theme,not-urgent not-important,20
+sort study screenshots,not-urgent not-important,22
+design new background,not-urgent not-important,21
+update playlist order,not-urgent not-important,21
+browse pencil holder,not-urgent not-important,20
+update folder color,not-urgent not-important,19
+sort phone contact,not-urgent not-important,18
+design new avatar,not-urgent not-important,17
+browse desk organizer,not-urgent not-important,21
+update app layout,not-urgent not-important,17
+sort study website,not-urgent not-important,18
+customize file name,not-urgent not-important,19
+update room arrangement,not-urgent not-important,23
+browse study snack,not-urgent not-important,18
+update playlist name,not-urgent not-important,20
+sort digital note,not-urgent not-important,17
+design new icon,not-urgent not-important,15
+browse study chair,not-urgent not-important,18
+update app theme,not-urgent not-important,16
+sort bookmarked video,not-urgent not-important,21
+customize wallpaper,not-urgent not-important,19
+update desk setup,not-urgent not-important,17
+browse highlighter,not-urgent not-important,18
+update folder name,not-urgent not-important,18
+sort saved post,not-urgent not-important,15
+design new theme,not-urgent not-important,16
+browse desk mat,not-urgent not-important,15
+update app folder,not-urgent not-important,17
+sort study playlist,not-urgent not-important,19
+customize shortcut,not-urgent not-important,18
+update room decor,not-urgent not-important,17
+browse study timer,not-urgent not-important,18
+update note theme,not-urgent not-important,17
+sort saved link,not-urgent not-important,15
+design new layout,not-urgent not-important,17
+browse desk light,not-urgent not-important,17
+update app order,not-urgent not-important,16
+sort music playlist,not-urgent not-important,19
+submit final thesis deadline,urgent important,28
+complete scholarship application,urgent important,32
+study for tomorrow's exam,urgent important,25
+submit research paper revision,urgent important,30
+register for required course,urgent important,28
+appeal academic probation,urgent important,25
+complete lab safety training,urgent important,28
+submit financial aid document,urgent important,29
+finish group project deadline,urgent important,29
+schedule thesis defense,urgent important,23
+complete course withdrawal form,urgent important,31
+submit internship application,urgent important,29
+address academic misconduct case,urgent important,32
+complete graduation requirement,urgent important,31
+submit housing application,urgent important,26
+create study schedule,not-urgent important,21
+research graduate school,not-urgent important,24
+build professional network,not-urgent important,26
+practice presentation skill,not-urgent important,27
+develop research skill,not-urgent important,22
+join academic society,not-urgent important,21
+build portfolio project,not-urgent important,23
+learn time management skill,not-urgent important,27
+start side project,not-urgent important,18
+learn foreign language,not-urgent important,22
+build writing skill,not-urgent important,19
+explore research opportunity,not-urgent important,28
+develop leadership skill,not-urgent important,24
+create career plan,not-urgent important,18
+build personal brand,not-urgent important,20
+learn public speaking,not-urgent important,21
+develop critical thinking,not-urgent important,25
+build technical skill,not-urgent important,21
+update course calendar,urgent not-important,22
+schedule study group,urgent not-important,20
+submit club membership form,urgent not-important,27
+return library book,urgent not-important,19
+get student id card,urgent not-important,19
+schedule academic advising,urgent not-important,26
+update student profile,urgent not-important,22
+submit parking permit,urgent not-important,21
+order graduation gown,urgent not-important,21
+schedule gym session,urgent not-important,20
+submit club attendance,urgent not-important,22
+register for campus event,urgent not-important,25
+update student email,urgent not-important,20
+book study room,urgent not-important,15
+submit routine assignment,urgent not-important,25
+schedule club meeting,urgent not-important,21
+update class schedule,urgent not-important,21
+order course material,urgent not-important,21
+customize laptop setup,not-urgent not-important,22
+organize study playlist,not-urgent not-important,23
+decorate dorm room,not-urgent not-important,18
+update social medium profile,not-urgent not-important,28
+browse campus store,not-urgent not-important,19
+design note template,not-urgent not-important,20
+customize planner layout,not-urgent not-important,24
+update device wallpaper,not-urgent not-important,23
+design study corner,not-urgent not-important,19
+create mood board,not-urgent not-important,17
+organize study supply,not-urgent not-important,21
+update reading list,not-urgent not-important,19
+design study routine,not-urgent not-important,20
+create productivity system,not-urgent not-important,26
+organize study music,not-urgent not-important,20
+design study space,not-urgent not-important,18
+browse study accessory,not-urgent not-important,22
+create study atmosphere,not-urgent not-important,23
+design revision card,not-urgent not-important,20
+create study motivation board,not-urgent not-important,29
+update study desk layout,not-urgent not-important,24
+create study routine checklist,not-urgent not-important,30
+design study progress chart,not-urgent not-important,27
+update study goal visuals,not-urgent not-important,25
+create study reward system,not-urgent not-important,26
+design study habit tracker,not-urgent not-important,26
+update study method visuals,not-urgent not-important,27
+create study timeline design,not-urgent not-important,28
+design study milestone tracker,not-urgent not-important,30
+update study focus timer,not-urgent not-important,24
+create study session planner,not-urgent not-important,28
+design study break timer,not-urgent not-important,24
+update study progress board,not-urgent not-important,27
+create study accountability chart,not-urgent not-important,33
+design study reflection journal,not-urgent not-important,31
+update study strategy visuals,not-urgent not-important,29
+create study productivity log,not-urgent not-important,29
+design study success tracker,not-urgent not-important,28
+update study routine visuals,not-urgent not-important,28
+"browse and buy a birthday present for her mom, whose birthday is next week",not-urgent important,74
+take a medicine,urgent important,15
+vacuuming the floor,not-urgent important,19
+washing the dish,urgent important,16
+"wiping surface (tables, counters)",not-urgent important,33
+dusting furniture,not-urgent important,17
+cleaning the bathroom,urgent important,21
+organizing clutter,not-urgent important,18
+changing bed sheet,not-urgent important,18
+mopping the floor,not-urgent important,17
+cleaning the kitchen,urgent important,20
+taking out the trash,urgent important,20
+wake up in the morning,urgent important,22
+eat breakfast,not-urgent important,13
+shower and get ready for the day,not-urgent important,32
+work or study,urgent important,13
+eat lunch,not-urgent important,9
+take a break or nap,not-urgent important,19
+do light exercise (stretching or walking),not-urgent important,41
+interact with family or friend,not-urgent important,30
+prepare dinner,not-urgent important,14
+maintain personal hygiene and cleanliness,not-urgent important,41
+rest and get enough sleep,urgent important,25
+review assignment instruction,urgent important,29
+research for homework,not-urgent important,21
+complete homework for subject 1,urgent important,31
+complete homework for subject 2,urgent important,31
+review note and study for homework,not-urgent important,34
+check answer and edit work,not-urgent important,26
+ask for help or clarification if needed,not-urgent important,39
+submit homework on time,urgent important,23
+organize homework material and workspace,not-urgent important,40
+take break during homework,not-urgent important,26
+set study goal for the session,urgent important,30
+organize study material and workspace,not-urgent important,37
+review note and summary,not-urgent important,23
+read textbook or study resource,not-urgent important,31
+practice problem or exercise,not-urgent important,28
+take break at regular interval,not-urgent important,30
+stay hydrated and have snack,not-urgent important,28
+review past assignment and mistake,not-urgent important,34
+summarize key point for retention,not-urgent important,33
+prepare for upcoming exam or quiz,urgent important,33
+write and plan code for a feature,not-urgent important,33
+debug and fix bug in existing code,urgent important,34
+research new library or framework for project,not-urgent important,45
+write unit test for code,not-urgent important,24
+optimize code for performance,not-urgent important,29
+review pull request from team member,urgent not-important,36
+attend code review meeting,urgent not-important,26
+refactor code for better readability,not-urgent important,36
+check and update documentation for code,not-urgent not-important,39
+make minor ui improvement or enhancement,not-urgent not-important,40
+define project scope and objective,urgent important,34
+create project timeline and milestone,urgent important,37
+assign task to team member,urgent important,26
+monitor project progress and ensure deadline are met,urgent important,52
+communicate with stakeholder and client,not-urgent important,39
+review and approve project deliverable,urgent important,38
+risk assessment and mitigation planning,not-urgent important,39
+organize team meeting and check-in,not-urgent important,34
+maintain project documentation and report,not-urgent important,41
+provide feedback and mentorship to team member,not-urgent important,46
+ensure budget management and resource allocation,urgent not-important,48
+celebrate project milestone and success,not-urgent not-important,39
+establish project team and role,urgent important,31
+"set up project management tool (e.g., trello, jira)",not-urgent important,51
+conduct risk analysis and develop contingency plan,not-urgent important,50
+ensure quality control and standard are followed,urgent important,48
+track project budget and expense,not-urgent important,32
+review and update project schedule regularly,urgent important,44
+facilitate collaboration and team communication,not-urgent important,47
+conduct client presentation and progress update,not-urgent important,47
+resolve conflict and issue within the team,urgent important,42
+evaluate team performance and provide constructive feedback,not-urgent important,59
+ensure compliance with legal or regulatory requirement,not-urgent important,54
+prepare and deliver final project report to stakeholder,urgent important,55
+collect and clean raw data,urgent important,26
+analyze data and identify trend,urgent important,31
+develop and train machine learning model,urgent important,40
+optimize and fine-tune model for better accuracy,not-urgent important,48
+create data visualization and report for stakeholder,not-urgent important,52
+conduct exploratory data analysis (eda),not-urgent important,39
+collaborate with cross-functional team to understand business need,not-urgent important,66
+document data science process and method used,not-urgent important,45
+stay updated with latest trend and tool in data science,not-urgent important,55
+evaluate model performance and make adjustment,urgent important,46
+present insight and finding to non-technical stakeholder,urgent not-important,56
+automate repetitive data processing task,not-urgent important,40
+prepare and preprocess data for analysis,urgent important,40
+perform feature engineering and selection,urgent important,41
+build data pipeline for efficient data flow,urgent important,43
+test hypothesis and conduct statistical analysis,not-urgent important,48
+create dashboard for real-time data monitoring,not-urgent important,46
+work on model interpretability and explainability,not-urgent important,49
+conduct a/b testing and experimentation,not-urgent important,39
+collaborate with engineer to deploy machine learning model,urgent important,58
+monitor deployed model and retrain a necessary,not-urgent important,46
+prepare and deliver presentation to share insight with executive,not-urgent important,64
+ensure data security and compliance with privacy regulation,not-urgent important,59
+clean and maintain data repository for easy access,not-urgent not-important,50
+set up development environment and tool,urgent important,39
+define app feature and user story,urgent important,33
+"design the app ui/ux (wireframes, mockups)",not-urgent important,42
+develop core app functionality and feature,urgent important,42
+integrate apis and external service,urgent important,35
+test app for bug and fix critical issue,urgent important,39
+optimize app for performance and speed,not-urgent important,38
+ensure app is responsive across device and screen size,not-urgent important,54
+prepare demo and presentation for hackathon judging,urgent important,51
+deploy app to app store/play store (if applicable),not-urgent important,50
+collaborate with team member on feature and integration,not-urgent important,55
+write documentation and comment code for clarity,not-urgent important,48
+review course material and note for exam,urgent important,40
+complete assignment and submit on time,urgent important,38
+attend lecture and participate in discussion,not-urgent important,44
+read assigned textbook and research article,not-urgent important,43
+work on group project and collaborate with team member,not-urgent important,54
+prepare presentation and report for class,not-urgent important,41
+seek internship and career opportunity,not-urgent important,38
+network with professor and industry professional,not-urgent important,48
+organize study material and plan study schedule,not-urgent important,47
+analyze case study and apply theoretical knowledge,not-urgent important,50
+review feedback from assignment and improve performance,urgent important,55
+participate in extracurricular activity and leadership program,not-urgent not-important,62
+rest and allow your body to recover,urgent important,35
+hydrate and take medicine a prescribed,urgent important,38
+notify work/school about absence,urgent important,32
+sleep and take short nap to boost recovery,urgent important,42
+monitor symptom and seek medical help if necessary,urgent important,50
+"eat light, nutritious meal for energy",not-urgent important,37
+stay in touch with colleague or classmate for important update,not-urgent important,62
+"catch up on light, non-energy intensive task (e.g., emails, reading)",not-urgent important,68
+relax and watch movie or listen to music to distract yourself,not-urgent not-important,61
+avoid strenuous activity and focus on full recovery,not-urgent important,51
+make a grocery list based on meal plan,urgent important,38
+check pantry and fridge for existing item,not-urgent important,41
+go to the grocery store or order online,urgent important,39
