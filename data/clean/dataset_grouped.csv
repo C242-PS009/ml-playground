@@ -26,7 +26,7 @@ spend time with family and friend,not-urgent important
 prepare flashcard for vocabulary,not-urgent important
 organize your email into folder,not-urgent important
 create a weekly study schedule and stick to it,not-urgent important
-schedule software training session,not-urgent important
+schedule software training session,urgent not-important
 cook healthy meal,not-urgent important
 practice sample test question,not-urgent important
 research potential vendor,not-urgent important
@@ -100,11 +100,11 @@ learn new skill,not-urgent important
 start term paper research,not-urgent important
 develop data governance policy,not-urgent important
 review compliance document for approval,not-urgent important
-schedule study session,not-urgent important
+schedule study session,not-urgent not-important
 catch up with a friend over coffee,not-urgent important
-schedule a coffee chat with a professor to discus research,not-urgent important
+schedule a coffee chat with a professor to discuss research,not-urgent important
 practice a new language or skill,not-urgent important
-update your list of personal achievement,not-urgent important
+update your list of personal achievement,not-urgent not-important
 plan research project timeline,not-urgent important
 research thesis topic,not-urgent important
 "set up project management tool (e.g., trello, jira)",not-urgent important
@@ -371,7 +371,7 @@ join a community group or volunteer,not-urgent important
 read assigned book chapter,not-urgent important
 prepare holiday schedule,not-urgent important
 attend academic success workshop,not-urgent important
-make a list of upcoming birthday to remember,not-urgent important
+make a list of upcoming birthday to remember,not-urgent not-important
 refresh task template for future use,not-urgent important
 check internship deadline,not-urgent important
 read assigned textbook and research article,not-urgent important
@@ -580,9 +580,9 @@ complete online course or certification for career development,not-urgent import
 renew professional certification,not-urgent important
 review feedback on previous assignment,not-urgent important
 organize end-of-year review documentation,not-urgent important
-make a list of book to read this year,not-urgent important
+make a list of book to read this year,not-urgent not-important
 review course syllabus,not-urgent important
-create a playlist for your study session,not-urgent important
+create a playlist for your study session,not-urgent not-important
 join a student-led project or initiative,not-urgent important
 prepare a personal study space at home,not-urgent important
 organize company-wide webinar,not-urgent important
@@ -1068,12 +1068,12 @@ look up diy home improvement project,not-urgent not-important
 create a task list for next week,not-urgent important
 browse highlighter,not-urgent not-important
 research new way to improve time management at work,not-urgent not-important
-set personal academic goal,not-urgent not-important
+set personal academic goal,not-urgent important
 update app folder,not-urgent not-important
 organize old book,not-urgent not-important
 brainstorm club activity idea,not-urgent not-important
 start a journal for fun,not-urgent not-important
-schedule a meeting for next week,not-urgent not-important
+schedule a meeting for next week,urgent important
 browse new phone case,not-urgent not-important
 try a new fitness routine,not-urgent not-important
 look for fun activity to do with your team,not-urgent not-important
@@ -1150,7 +1150,7 @@ update study apps,not-urgent not-important
 create team building game,not-urgent not-important
 find new tool to improve office organization,not-urgent not-important
 look for academic journal for research project,not-urgent not-important
-create assignment checklist,not-urgent not-important
+create assignment checklist,not-urgent important
 organize your course material for easy access,not-urgent not-important
 write down study goal,not-urgent not-important
 go to a museum,not-urgent not-important
@@ -1289,7 +1289,7 @@ update study routine visuals,not-urgent not-important
 search for new conference call tool,not-urgent not-important
 create productivity system,not-urgent not-important
 browse office furniture catalog for inspiration,not-urgent not-important
-update password list,not-urgent not-important
+update password list,not-urgent important
 look for online course to enhance office skill,not-urgent not-important
 update phone home screen layout,not-urgent not-important
 find book in the campus library for fun reading,not-urgent not-important
@@ -1812,7 +1812,7 @@ call the meeting to discus the financial crisis,urgent important
 update the employee handbook with recent policy change,urgent important
 hire new team member,urgent important
 resolve the customer service issue with the vendor,urgent important
-schedule the repair of the faulty washing machine,urgent important
+schedule the repair of the faulty washing machine,not-urgent important
 organize the inventory count for next day,urgent important
 complete the academic journal submission process,urgent important
 collect and clean raw data,urgent important
@@ -1843,7 +1843,7 @@ prepare the checklist for next day’s inspection,urgent important
 prepare project report,urgent important
 approve the vendor selection before tomorrow noon,urgent important
 submit the finalized graphic for the campaign rollout,urgent important
-schedule the plumber visit to fix the broken faucet,urgent important
+schedule the plumber visit to fix the broken faucet,not-urgent important
 attend the meeting for the community volunteer program,urgent important
 submit travel reimbursement,urgent important
 submit grant application,urgent important
@@ -2290,7 +2290,7 @@ establish project team and role,urgent important
 resolve the technical support ticket from a major customer,urgent important
 organize a conference call with overseas partner,urgent important
 complete the contract negotiation with the new client,urgent important
-schedule social medium post,urgent not-important
+schedule social medium post,not-urgent not-important
 sign up for extra credit,urgent not-important
 book the study room in the library,urgent not-important
 contact payroll department,urgent not-important
@@ -2329,7 +2329,7 @@ arrange team lunch,urgent not-important
 arrange software installation for computer,urgent not-important
 check gpa on portal,urgent not-important
 check available time for conference call,urgent not-important
-schedule maintenance for office equipment,urgent not-important
+schedule maintenance for office equipment,urgent important
 send reminder to submit work hour,urgent not-important
 submit club attendance,urgent not-important
 check submission deadline for essay,urgent not-important
@@ -2414,7 +2414,7 @@ check projector screen for presentation,urgent not-important
 confirm meeting time with client,urgent not-important
 check office temperature before meeting,urgent not-important
 order printer cartridge,urgent not-important
-update class schedule,urgent not-important
+update class schedule,not-urgent important
 look for academic advising slot,urgent not-important
 confirm exam location,urgent not-important
 check office equipment,urgent not-important
@@ -2439,7 +2439,7 @@ verify job application submission,urgent not-important
 find a tutor for difficult subject,urgent not-important
 double-check that all assignment are uploaded on the portal,urgent not-important
 register for campus event,urgent not-important
-schedule routine maintenance,urgent not-important
+schedule routine maintenance,not-urgent important
 process purchase order,urgent not-important
 submit club membership form,urgent not-important
 reserve meeting room for session,urgent not-important
@@ -2450,7 +2450,7 @@ verify online class login,urgent not-important
 send reminder for team survey,urgent not-important
 arrange last-minute repair,urgent not-important
 print out research paper for class discussion,urgent not-important
-join the university’s student newsletter mailing list,urgent not-important
+join the university’s student newsletter mailing list,not-urgent not-important
 look for free online course,urgent not-important
 arrange projector for meeting,urgent not-important
 send meeting note to the team,urgent not-important
@@ -2470,11 +2470,11 @@ remind staff to close window,urgent not-important
 schedule academic advising,urgent not-important
 arrange catering for upcoming office seminar,urgent not-important
 confirm dinner plan for tonight,urgent not-important
-schedule gym session,urgent not-important
+schedule gym session,not-urgent not-important
 book conference ticket,urgent not-important
 check if lab material are available,urgent not-important
 confirm the schedule for next week’s client call,urgent important
-schedule vendor meeting,urgent not-important
+schedule vendor meeting,not-urgent important
 update student profile,urgent not-important
 confirm group project presentation time,urgent not-important
 send reminder about employee survey,urgent not-important
@@ -2575,7 +2575,7 @@ print out assignment rubric,urgent not-important
 register for a study group session before exam,urgent not-important
 request clarification from client,urgent not-important
 organize grocery list for this week’s shopping,not-urgent not-important
-prepare backup document for presentation,urgent not-important
+prepare backup document for presentation,not-urgent important
 email career counselor for resume review,urgent not-important
 recharge your phone before it dy,urgent not-important
 confirm reservation for lunch,urgent not-important
@@ -2678,7 +2678,7 @@ check projector for client meeting,urgent not-important
 book meeting room,urgent not-important
 check for announcement on campus event schedule,urgent not-important
 update class material,urgent not-important
-schedule an oil change for your car,urgent not-important
+schedule an oil change for your car,not-urgent not-important
 rearrange seating for meeting,urgent not-important
 update resume for job search,urgent not-important
 pick up your laundry from the dry cleaner before closing,urgent not-important
@@ -2750,7 +2750,7 @@ sign up for tutoring session,urgent not-important
 double-check the requirement for applying for graduation,urgent not-important
 arrange recycling pickup,urgent not-important
 email professor for exam feedback,urgent not-important
-update contact list,urgent not-important
+update contact list,not-urgent important
 email professor for clarification,urgent not-important
 submit parking permit,urgent not-important
 book a dentist appointment before next month,urgent not-important
@@ -2776,7 +2776,7 @@ clean up the house before guest arrive,urgent not-important
 check for study group,urgent not-important
 arrange team lunch for tomorrow,urgent not-important
 remind your group about meeting for project work this week,urgent not-important
-update department contact list,urgent not-important
+update department contact list,not-urgent important
 check update to hr policy,urgent not-important
 file office document,urgent not-important
 return phone call,urgent not-important
@@ -2806,7 +2806,7 @@ buy laundry detergent for the weekend wash,not-urgent not-important
 book equipment rental,urgent not-important
 send the group’s project report to your professor for feedback,urgent not-important
 update team on project timeline,urgent not-important
-update todo list,urgent not-important
+update todo list,not-urgent important
 take the dog for a walk before the sun set,urgent not-important
 respond to medium inquiry,urgent not-important
 find time for group meeting,urgent not-important
@@ -2947,7 +2947,7 @@ send email to confirm study group time,urgent not-important
 remind to bring water bottle,urgent not-important
 schedule club meeting,urgent not-important
 organize spare office supply,urgent not-important
-find your course schedule for next semester,urgent not-important
+find your course schedule for next semester,not-urgent important
 sign up for group study session for the semester,urgent not-important
 check status of request,urgent not-important
 check assignment feedback,urgent not-important
