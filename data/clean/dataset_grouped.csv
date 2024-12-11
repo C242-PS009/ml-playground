@@ -66,7 +66,7 @@ gather material for the workshop next month,not-urgent important
 schedule quarterly review meeting,not-urgent important
 prepare question for class,not-urgent important
 join an online course to learn a new skill,not-urgent important
-prepare for upcoming meeting,not-urgent important
+prepare for upcoming meeting,urgent important
 take a walk to explore a new neighborhood,not-urgent important
 audit database for outdated information,not-urgent important
 try a new cooking recipe,not-urgent important
@@ -77,7 +77,7 @@ organize upcoming team event,not-urgent important
 review new project proposal,not-urgent important
 plan a networking event with classmate for future career growth,not-urgent important
 avoid strenuous activity and focus on full recovery,not-urgent important
-prepare a list of movie to watch,not-urgent important
+prepare a list of movie to watch,not-urgent not-important
 ensure compliance with legal or regulatory requirement,not-urgent important
 create diversity inclusion framework,not-urgent important
 stay in touch with colleague or classmate for important update,not-urgent important
@@ -183,7 +183,7 @@ join a university club related to your field of study,not-urgent important
 review practice question,not-urgent important
 study experimental design,not-urgent important
 create a study group for upcoming exam,not-urgent important
-prepare for mock interview,not-urgent important
+prepare for mock interview,urgent important
 ask professor for feedback,not-urgent important
 family time,not-urgent important
 schedule content for social medium,not-urgent important
@@ -217,8 +217,8 @@ conduct research on sustainable business practice,not-urgent important
 review and apply for scholarship opportunity,not-urgent important
 write a goal-setting document for the year,not-urgent important
 practice data analysis,not-urgent important
-plan weekend trip with friend,not-urgent important
-schedule time for a weekend relaxation,not-urgent important
+plan weekend trip with friend,not-urgent not-important
+schedule time for a weekend relaxation,not-urgent not-important
 provide feedback and mentorship to team member,not-urgent important
 learn data visualization,not-urgent important
 review past assignment and mistake,not-urgent important
@@ -464,7 +464,7 @@ build technical skill,not-urgent important
 regular health checkup,not-urgent important
 create quarterly project plan,not-urgent important
 organize group study session for a difficult subject,not-urgent important
-plan a weekend movie marathon,not-urgent important
+plan a weekend movie marathon,not-urgent not-important
 renew software subscription,not-urgent important
 start a new exercise routine,not-urgent important
 follow academic conference or workshop relevant to your study,not-urgent important
@@ -473,7 +473,7 @@ participate in a student organization meeting,not-urgent important
 schedule office maintenance,not-urgent important
 draft new marketing plan,not-urgent important
 practice writing academic paper and essay,not-urgent important
-prepare and deliver presentation to share insight with executive,not-urgent important
+prepare and deliver presentation to share insight with executive,urgent important
 strategic planning session,not-urgent important
 "design the app ui/ux (wireframes, mockups)",not-urgent important
 plan a visit to a university open house or research symposium,not-urgent important
@@ -691,7 +691,7 @@ write monthly newsletter,not-urgent important
 work on group project and collaborate with team member,not-urgent important
 clean and reorganize your room,not-urgent important
 review your student loan and repayment plan,not-urgent important
-prepare for weekly project update,not-urgent important
+prepare for weekly project update,urgent important
 monitor deployed model and retrain a necessary,not-urgent important
 schedule meeting with team to discus goal,not-urgent important
 organize a networking event with alumnus,not-urgent important
@@ -731,7 +731,7 @@ prepare your personal statement for graduate school application,not-urgent impor
 improve documentation,not-urgent important
 research competitor,not-urgent important
 plan international expansion,not-urgent important
-plan a budget-friendly weekend getaway,not-urgent important
+plan a budget-friendly weekend getaway,not-urgent not-important
 prepare dinner,not-urgent important
 organize your study material for the semester,not-urgent important
 create a team onboarding checklist,not-urgent important
@@ -837,7 +837,7 @@ rearrange your desk,not-urgent not-important
 browse study room plant,not-urgent not-important
 create email signature template,not-urgent not-important
 buy random item on sale,not-urgent not-important
-meal prep for the week,not-urgent not-important
+meal prep for the week,not-urgent important
 update your university portal with recent academic activity,not-urgent not-important
 browse study accessory,not-urgent not-important
 learn how to do origami,not-urgent not-important
@@ -864,7 +864,7 @@ attend extracurricular activity,not-urgent not-important
 update desktop wallpaper,not-urgent not-important
 find way to organize your office meeting,not-urgent not-important
 take a short nap,not-urgent not-important
-plan meal for the week,not-urgent not-important
+plan meal for the week,not-urgent important
 browse study technique,not-urgent not-important
 chat with classmate,not-urgent not-important
 sort through old email,not-urgent not-important
@@ -1065,7 +1065,7 @@ research university alumnus network,not-urgent not-important
 check out new tech gadget,not-urgent not-important
 try a new hairstyle,not-urgent not-important
 look up diy home improvement project,not-urgent not-important
-create a task list for next week,not-urgent not-important
+create a task list for next week,not-urgent important
 browse highlighter,not-urgent not-important
 research new way to improve time management at work,not-urgent not-important
 set personal academic goal,not-urgent not-important
@@ -1098,7 +1098,7 @@ browse study tip,not-urgent not-important
 organize semester study material,not-urgent not-important
 sort lecture slide,not-urgent not-important
 take photo of nature,not-urgent not-important
-organize backpack for next day,not-urgent not-important
+organize backpack for next day,not-urgent important
 check for new software update on your computer,not-urgent not-important
 update cloud storage layout,not-urgent not-important
 create study reward system,not-urgent not-important
@@ -1650,7 +1650,7 @@ respond to the doctor’s email regarding test result,urgent important
 submit class project,urgent important
 prepare the poster presentation for the academic conference,urgent important
 finalize the research experiment setup before tomorrow,urgent important
-prepare next month's client billing,urgent important
+prepare next month's client billing,not-urgent important
 pick up the prescription from the pharmacy,urgent important
 complete merger documentation,urgent important
 finalize the task allocation for tomorrow’s workshop,urgent important
@@ -1932,7 +1932,7 @@ prepare the financial summary for the non-profit audit,urgent important
 review the legal document for the project agreement,urgent important
 prepare a quick report on the financial status of the project,urgent important
 send project update to stakeholder,urgent important
-make a grocery list based on meal plan,urgent important
+make a grocery list based on meal plan,not-urgent important
 attend extra lab practice session,urgent important
 submit the project proposal by tomorrow morning,urgent important
 replace the leaking pipe in the kitchen immediately,urgent important
@@ -2042,7 +2042,7 @@ submit tax document,urgent important
 write the introduction section for the research thesis,urgent important
 submit the urgent hr document for approval today,urgent important
 negotiate salary offer,urgent important
-prepare the guest room for relative visiting this weekend,urgent important
+prepare the guest room for relative visiting this weekend,not-urgent important
 address workplace safety violation,urgent important
 rest and allow your body to recover,urgent important
 write discussion post for online class,urgent important
@@ -2344,7 +2344,7 @@ arrange lunch with client,urgent not-important
 review lab requirement,urgent not-important
 confirm meeting location,urgent not-important
 get back-up document ready,urgent not-important
-arrange delivery for office supply before weekend,urgent not-important
+arrange delivery for office supply before weekend,urgent important
 check team availability for meeting,urgent not-important
 sign up for campus networking event,urgent not-important
 book appointment for dental check-up,urgent not-important
@@ -2361,7 +2361,7 @@ look for street festival detail,urgent not-important
 call customer service about billing issue,urgent not-important
 clean out your car’s trunk for better organization,urgent not-important
 update meeting minute,urgent not-important
-respond to urgent client email,urgent not-important
+respond to urgent client email,urgent important
 look up academic calendar,urgent not-important
 contact technical support,urgent not-important
 look for project partner,urgent not-important
@@ -2473,7 +2473,7 @@ confirm dinner plan for tonight,urgent not-important
 schedule gym session,urgent not-important
 book conference ticket,urgent not-important
 check if lab material are available,urgent not-important
-confirm the schedule for next week’s client call,urgent not-important
+confirm the schedule for next week’s client call,urgent important
 schedule vendor meeting,urgent not-important
 update student profile,urgent not-important
 confirm group project presentation time,urgent not-important
@@ -2526,7 +2526,7 @@ update project status report,urgent not-important
 check the student portal for any new announcement,urgent not-important
 check the fridge for expired food,urgent not-important
 order tissue for the office,urgent not-important
-update meal plan,urgent not-important
+update meal plan,not-urgent important
 replace stapler in common area,urgent not-important
 check for any alert about road closure in the area,urgent not-important
 confirm professor office hour,urgent not-important
@@ -2574,7 +2574,7 @@ thank team for event participation,urgent not-important
 print out assignment rubric,urgent not-important
 register for a study group session before exam,urgent not-important
 request clarification from client,urgent not-important
-organize grocery list for this week’s shopping,urgent not-important
+organize grocery list for this week’s shopping,not-urgent not-important
 prepare backup document for presentation,urgent not-important
 email career counselor for resume review,urgent not-important
 recharge your phone before it dy,urgent not-important
@@ -2603,7 +2603,7 @@ order printer paper,urgent not-important
 remind to clear personal item from meeting room,urgent not-important
 fix broken printer,urgent not-important
 get feedback from professor on your recent project,urgent not-important
-book a last-minute meeting for next week,urgent not-important
+book a last-minute meeting for next week,urgent important
 ask for project extension,urgent not-important
 set up conference room,urgent not-important
 sort through old mail for important document,urgent not-important
@@ -2643,7 +2643,7 @@ submit your essay to the professor via email,urgent not-important
 check attendance record,urgent not-important
 look for open spot in popular course,urgent not-important
 study for upcoming quiz,urgent not-important
-look up the weather forecast for the week,urgent not-important
+look up the weather forecast for the week,not-urgent not-important
 buy extra ink for printer,urgent not-important
 review the course material for the upcoming test,urgent not-important
 remind yourself to submit the online quiz by midnight,urgent not-important
@@ -2669,7 +2669,7 @@ find missing stapler,urgent not-important
 sign up for research seminar,urgent not-important
 pay the electricity bill before it’s due,urgent not-important
 check email for urgent message,urgent not-important
-update client contract,urgent not-important
+update client contract,urgent important
 confirm campus event registration,urgent not-important
 update course calendar,urgent not-important
 revisit past exam for practice,urgent not-important
@@ -2697,7 +2697,7 @@ check study abroad application status,urgent not-important
 look for online study resource,urgent not-important
 ask about late submission policy,urgent not-important
 ask about university health service,urgent not-important
-check weekend weather forecast,urgent not-important
+check weekend weather forecast,not-urgent not-important
 send email to professor about missing class note,urgent not-important
 confirm presentation schedule,urgent not-important
 review application requirement for scholarship,urgent not-important
@@ -2764,7 +2764,7 @@ review your gpa and academic standing online,urgent not-important
 send meeting schedule update,urgent not-important
 get student id card,urgent not-important
 ask about final project requirement,urgent not-important
-send weekly status report,urgent not-important
+send weekly status report,urgent important
 ensure snack are stocked for break,urgent not-important
 review office equipment inventory,urgent not-important
 reply to classmate email,urgent not-important
@@ -2802,7 +2802,7 @@ confirm agenda for meeting,urgent not-important
 manage product return and refund,urgent not-important
 check for course update,urgent not-important
 take trash out before it overflow,urgent not-important
-buy laundry detergent for the weekend wash,urgent not-important
+buy laundry detergent for the weekend wash,not-urgent not-important
 book equipment rental,urgent not-important
 send the group’s project report to your professor for feedback,urgent not-important
 update team on project timeline,urgent not-important
@@ -2858,7 +2858,7 @@ request meeting agenda,urgent not-important
 pick up grocery,urgent not-important
 schedule research meeting,urgent not-important
 record meeting note,urgent not-important
-check library hour during exam week,urgent not-important
+check library hour during exam week,not-urgent not-important
 look up course feedback from past student,urgent not-important
 follow up on job application,urgent not-important
 ask about graduation requirement,urgent not-important
@@ -2876,12 +2876,12 @@ complete a short survey for the university’s student feedback,urgent not-impor
 verify detail for job fair,urgent not-important
 double-check registration for next semester's class,urgent not-important
 remind manager about deadline,urgent not-important
-reorganize study material before exam week,urgent not-important
+reorganize study material before exam week,not-urgent important
 change the water in the fish tank,urgent not-important
 prepare your note for upcoming lecture tomorrow,urgent not-important
 review email from unknown sender,urgent not-important
 check parking spot near concert,urgent not-important
-buy a new pair of shoe for the weekend trip,urgent not-important
+buy a new pair of shoe for the weekend trip,not-urgent not-important
 review pull request from team member,urgent not-important
 ask for job shadowing opportunity,urgent not-important
 update student email,urgent not-important
